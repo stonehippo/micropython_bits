@@ -1,2 +1,7 @@
 # micropython_bits
-Randon useful things for MicroPython
+Random useful things for MicroPython
+
+## The essentials
+
+- https://micropython.org
+- [MicroPython docs](https://docs.micropython.org/en/latest/)
